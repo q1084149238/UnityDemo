@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: hand
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 75e7fa1992bb4524ea8657c48d3b9d8f, type: 3}
+    totalSpriteSurfaceArea: 255744
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b6661870794fbe14d8d6987296b24abd, type: 3}
+  - {fileID: 21300000, guid: ef8416b0a6c7f6f44a9edae09f9f5fe3, type: 3}
+  - {fileID: 21300000, guid: 338b2601909d6ac46a92f398c626fc9e, type: 3}
+  - {fileID: 21300000, guid: f6337ae11a007d4488c941d20257307a, type: 3}
+  - {fileID: 21300000, guid: af799dd2be4e428498301f5319826707, type: 3}
+  - {fileID: 21300000, guid: e1141b334d3503445873aab3a169e382, type: 3}
+  - {fileID: 21300000, guid: b0aa5c53734e93342b0bfdbe73af20c6, type: 3}
+  - {fileID: 21300000, guid: 80ef63f3eaddd5348a3f3f7874c7eae8, type: 3}
+  - {fileID: 21300000, guid: 9dee1cc414080db4ba8d52bbbace9920, type: 3}
+  - {fileID: 21300000, guid: c8b055f44ddae684ea45d5e26f2060ab, type: 3}
+  - {fileID: 21300000, guid: 16d019154e13f6f46afc83ff77a7b03f, type: 3}
+  - {fileID: 21300000, guid: 3cacb1358b9980240ade05f396758404, type: 3}
+  - {fileID: 21300000, guid: 9ce3209591fb1b34b8d5b6305a661777, type: 3}
+  - {fileID: 21300000, guid: b68c9536c5185ba4194d2d93d194ec03, type: 3}
+  - {fileID: 21300000, guid: 999b88b6f3dd44d41ad30eedba3e5ea9, type: 3}
+  - {fileID: 21300000, guid: 5dfdd0c66f63b7144a59181e5402e5da, type: 3}
+  - {fileID: 21300000, guid: e50306c6e99f64449b72516fb3590e13, type: 3}
+  - {fileID: 21300000, guid: b2efe217ca3943c458ca4cbbea38764d, type: 3}
+  - {fileID: 21300000, guid: 392760476a8154346af476922476387a, type: 3}
+  - {fileID: 21300000, guid: ebd2d4773dd85de468c9a70503b1dcea, type: 3}
+  - {fileID: 21300000, guid: d666cea7fc94aee4eb73ce6a5446a951, type: 3}
+  - {fileID: 21300000, guid: b3408768001dba0409ca60834744d120, type: 3}
+  - {fileID: 21300000, guid: f8f15788f9c20ce45842b22c4b1f2d3f, type: 3}
+  - {fileID: 21300000, guid: b7eaed8849c37d34d99e64b571259a39, type: 3}
+  - {fileID: 21300000, guid: 76f66de868f14b542b5bcb755203f946, type: 3}
+  - {fileID: 21300000, guid: 6236af09cbdf00c41b748b2a4e458cea, type: 3}
+  - {fileID: 21300000, guid: e33a8159db07eff4aa53938b69ecf70a, type: 3}
+  - {fileID: 21300000, guid: bd238f596c14e164dbe8bbc8933763d4, type: 3}
+  - {fileID: 21300000, guid: 813a5d8a93f30b44bb0eb8dc0bbbd7f7, type: 3}
+  - {fileID: 21300000, guid: 8ab5ef3bce6c90f478aaa83c17f5efe3, type: 3}
+  - {fileID: 21300000, guid: 96c9b1bbcadbacb4192f98f836d3336a, type: 3}
+  - {fileID: 21300000, guid: 28822debd8d6d164789f8c6db4fd1682, type: 3}
+  - {fileID: 21300000, guid: 9da47f1c181dcdc448a8ed6c753cd35b, type: 3}
+  - {fileID: 21300000, guid: bfd1fd0d42a297349b5775776f501a73, type: 3}
+  - {fileID: 21300000, guid: e059c31d584b0f941a05fde4bf1f02ba, type: 3}
+  - {fileID: 21300000, guid: b431482e225b16042b657d2673a304bb, type: 3}
+  - {fileID: 21300000, guid: 35096d9f78f212f4fa9d94f6b3dc2855, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - p9
+  - red_m5
+  - p6
+  - s7
+  - s2
+  - z2
+  - s8
+  - z1
+  - red_p5
+  - m9
+  - m3
+  - m8
+  - p1
+  - p2
+  - z4
+  - m6
+  - m1
+  - m4
+  - p3
+  - m2
+  - red_s5
+  - p8
+  - p7
+  - s1
+  - s5
+  - z5
+  - z7
+  - s6
+  - z3
+  - p5
+  - s4
+  - s9
+  - m7
+  - z6
+  - p4
+  - m5
+  - s3
+  m_RenderDataMap: {}
+  m_Tag: hand
+  m_IsVariant: 0

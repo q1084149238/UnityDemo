@@ -38,10 +38,13 @@
   <ItemGroup>
      <Compile Include="Assets\Frame\DOTween_1_2_420\DOTween\Modules\DOTweenModuleUtils.cs" />
      <Compile Include="Assets\Frame\Singleton\Singleton.cs" />
+     <Compile Include="Assets\Script\Utils\SerializeList.cs" />
      <Compile Include="Assets\Frame\DOTween_1_2_420\DOTween\Modules\DOTweenModuleAudio.cs" />
      <Compile Include="Assets\Script\Game\MahjongClass.cs" />
+     <Compile Include="Assets\Script\Game\MahjongSubject.cs" />
      <Compile Include="Assets\Frame\DOTween_1_2_420\DOTween\Modules\DOTweenModulePhysics.cs" />
      <Compile Include="Assets\Frame\SoundManager.cs" />
+     <Compile Include="Assets\Script\Game\ObjectPool.cs" />
      <Compile Include="Assets\Frame\Singleton\MBSingleton.cs" />
      <Compile Include="Assets\Frame\UnityTimer\TimerExtensions.cs" />
      <Compile Include="Assets\Script\Game\MahjongInfo.cs" />
@@ -50,9 +53,11 @@
      <Compile Include="Assets\Frame\UnityTimer\Timer.cs" />
      <Compile Include="Assets\Frame\DOTween_1_2_420\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
      <Compile Include="Assets\Frame\DOTween_1_2_420\DOTween\Modules\DOTweenModuleSprite.cs" />
-     <Compile Include="Assets\Script\UI\Player.cs" />
+     <Compile Include="Assets\Script\Config\Config.cs" />
+     <Compile Include="Assets\Script\Game\Player.cs" />
      <Compile Include="Assets\Frame\Singleton\AttachSingleton.cs" />
      <Compile Include="Assets\Frame\DOTween_1_2_420\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <None Include="Assets\Resources\Effect\DoraShader.shader" />
      <None Include="Assets\Frame\DOTween_1_2_420\DOTween\readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>E:/Program Files/Unity/2020.2.1f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: opposite
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c148f84e5dd3d324c951cdad6a835a7b, type: 3}
+    totalSpriteSurfaceArea: 255744
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c79052709d5e6f84bae14cc564bba8d6, type: 3}
+  - {fileID: 21300000, guid: cd04e891522af80488bcc7b48b49e921, type: 3}
+  - {fileID: 21300000, guid: e663a7e1a8d411e4c905b392df482d21, type: 3}
+  - {fileID: 21300000, guid: 2c11c0f1b71e761498eeb2c65f176cd4, type: 3}
+  - {fileID: 21300000, guid: 2f65b7f12f3eb36409e2e8127787e1c5, type: 3}
+  - {fileID: 21300000, guid: 60b499128cefe1840b41a8741acef7c1, type: 3}
+  - {fileID: 21300000, guid: 1a4d9e124c25c1a439d87505597feb14, type: 3}
+  - {fileID: 21300000, guid: 45e01632f9a925b49a8ce770d801bc64, type: 3}
+  - {fileID: 21300000, guid: e66ffa139c0bd5b43a6021e9b60ebc59, type: 3}
+  - {fileID: 21300000, guid: 52cd2463ca15eeb4d943c22563be1dc9, type: 3}
+  - {fileID: 21300000, guid: 43537984faf05024eb17565a6ade9ed0, type: 3}
+  - {fileID: 21300000, guid: 6f3d8fc448e556148a3747adf9f4be28, type: 3}
+  - {fileID: 21300000, guid: de044545eed72ef47aae39c350522667, type: 3}
+  - {fileID: 21300000, guid: 96baa5750b73d8144b91e633f9fe6d0e, type: 3}
+  - {fileID: 21300000, guid: a3a101f5bc8ff7842aae3f67ac00558f, type: 3}
+  - {fileID: 21300000, guid: be243606bc4f5704eb6ecc9225a3e4b0, type: 3}
+  - {fileID: 21300000, guid: 7a935a86c29b6a240888958d279f4994, type: 3}
+  - {fileID: 21300000, guid: b69d58f660a24c64f9e06a1b0e1a6492, type: 3}
+  - {fileID: 21300000, guid: b75db54719556e24bbd234072f12d93b, type: 3}
+  - {fileID: 21300000, guid: 104cfed836c99594485a333274e16763, type: 3}
+  - {fileID: 21300000, guid: 630f5429b4adbbc479a81ec88672ad30, type: 3}
+  - {fileID: 21300000, guid: ae566d7991d3f07468560bb68b8e0cf3, type: 3}
+  - {fileID: 21300000, guid: 310866f9e107fb346be76a2b67c8fc4c, type: 3}
+  - {fileID: 21300000, guid: 6e8e38aa638b15b45aed674b9ac45971, type: 3}
+  - {fileID: 21300000, guid: ddfefcea3e863f84c9f96be06df8b011, type: 3}
+  - {fileID: 21300000, guid: 72f5568bd9c455d4f8d915856015d7b4, type: 3}
+  - {fileID: 21300000, guid: a990d5eb68e26bb49b95c2f502cc7599, type: 3}
+  - {fileID: 21300000, guid: 3822b93ceeca56144b7d0234a1c20478, type: 3}
+  - {fileID: 21300000, guid: 4f42bdac92589594bbb9f2641789406a, type: 3}
+  - {fileID: 21300000, guid: e9c5daccc2a5abf45be363e048d0bf9f, type: 3}
+  - {fileID: 21300000, guid: f3d796ecbf91ced45813bb61124a8bff, type: 3}
+  - {fileID: 21300000, guid: f9440b4de541b6648b9db26371f2d81c, type: 3}
+  - {fileID: 21300000, guid: 83fcf57d7e92a8a42aaf0eb353f46a22, type: 3}
+  - {fileID: 21300000, guid: 7020a99daf1b62f449bff50c30ed2876, type: 3}
+  - {fileID: 21300000, guid: 410dd1ce812ae0940a1fd5364324449c, type: 3}
+  - {fileID: 21300000, guid: b6af470f05c885549a954040d196cf1c, type: 3}
+  - {fileID: 21300000, guid: ffbee94f67783d54dbc2d01b7db4d0a1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - z5
+  - s4
+  - red_m5
+  - red_s5
+  - s9
+  - p3
+  - p8
+  - red_p5
+  - p6
+  - z4
+  - p7
+  - m3
+  - z6
+  - s7
+  - m7
+  - s5
+  - s1
+  - s6
+  - p4
+  - m1
+  - p1
+  - p9
+  - s2
+  - z2
+  - z1
+  - z3
+  - m9
+  - m4
+  - m5
+  - m6
+  - m2
+  - p5
+  - z7
+  - s3
+  - s8
+  - m8
+  - p2
+  m_RenderDataMap: {}
+  m_Tag: opposite
+  m_IsVariant: 0

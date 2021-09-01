@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bfe0685c4929f554c93cb32f12d66fea, type: 3}
+    totalSpriteSurfaceArea: 255744
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 22fd683155f920540a150750adb4f839, type: 3}
+  - {fileID: 21300000, guid: 8cd068b1a030fdd4a85f45fc5fbfcdfb, type: 3}
+  - {fileID: 21300000, guid: 7bb4f01236a7e8241aba59fcbe687b5e, type: 3}
+  - {fileID: 21300000, guid: 9ecd2782636d08245b05bd088099455d, type: 3}
+  - {fileID: 21300000, guid: dd6e17b31151d9b47ac25766b9e8f1d2, type: 3}
+  - {fileID: 21300000, guid: 963ecaa4e66f8e347b0f8ad02ff255d4, type: 3}
+  - {fileID: 21300000, guid: 4c68bfa4d980eef4fa1f248c28028d80, type: 3}
+  - {fileID: 21300000, guid: 04dceae40fd41c845a6d7a7e54e2ab79, type: 3}
+  - {fileID: 21300000, guid: 54e97a15e6d40e8458d4ac130c4380f3, type: 3}
+  - {fileID: 21300000, guid: f3a552357572b8e43957381457569ca3, type: 3}
+  - {fileID: 21300000, guid: 8f32fbe569d68b84f80d7301a924ed79, type: 3}
+  - {fileID: 21300000, guid: c9210d06301ddbe4790532643964ff83, type: 3}
+  - {fileID: 21300000, guid: 9982b4166b440c847928e42e3c37c6e6, type: 3}
+  - {fileID: 21300000, guid: 29bbb426496da8f458df7be17eccbe44, type: 3}
+  - {fileID: 21300000, guid: 0da935c660ad2fb4ba9fe3e2992fa2c4, type: 3}
+  - {fileID: 21300000, guid: f85b98170ba47a347b4ef4aca0f42084, type: 3}
+  - {fileID: 21300000, guid: 01f73477c13c17f40a6b02832249ea9a, type: 3}
+  - {fileID: 21300000, guid: 8bc46ba7e5e9bf84292b4068d6ae2ea4, type: 3}
+  - {fileID: 21300000, guid: 16e637b74f4413a42ab068487f4522d2, type: 3}
+  - {fileID: 21300000, guid: 2486df38674e6a4449e882fa9e6d3d5b, type: 3}
+  - {fileID: 21300000, guid: 89dfd758fa6703d409fea77f27413157, type: 3}
+  - {fileID: 21300000, guid: f03373d8b75e96f47a15095e8ba9f50e, type: 3}
+  - {fileID: 21300000, guid: d722d4293ab72ce468c8d59548fa5638, type: 3}
+  - {fileID: 21300000, guid: 588eab793608a8b4b9c927d7b9acdc24, type: 3}
+  - {fileID: 21300000, guid: e2de1b4aeb1cc114fa6bf3ab2d9cdd67, type: 3}
+  - {fileID: 21300000, guid: b2292e7a9717f414385784b192c391b2, type: 3}
+  - {fileID: 21300000, guid: 3c014c8a6411d4d48b3a9d4947fcf3b6, type: 3}
+  - {fileID: 21300000, guid: 7c76dc1becc0451489efaa5d76617cb6, type: 3}
+  - {fileID: 21300000, guid: 51ebc38b011101f4b9122e38c3b55bdf, type: 3}
+  - {fileID: 21300000, guid: dde6148bea3116f45a33255a9c010359, type: 3}
+  - {fileID: 21300000, guid: 2ec0ea1cc53d5b044be64d7ff18e94a6, type: 3}
+  - {fileID: 21300000, guid: 801f270d28ae5b2448bd4300f283b3bf, type: 3}
+  - {fileID: 21300000, guid: c074cc0d05d39d345b014377a79c97a0, type: 3}
+  - {fileID: 21300000, guid: 1b2877ad40a42a64c8c9fb2e83b4ba3f, type: 3}
+  - {fileID: 21300000, guid: 020d220e227a88b42beccb798e90ef7e, type: 3}
+  - {fileID: 21300000, guid: cb2194efe23f13c4dbe0964d4910ca49, type: 3}
+  - {fileID: 21300000, guid: ee621bff688183d43bc2405ddedc94ed, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - p3
+  - m8
+  - p8
+  - s9
+  - z3
+  - m3
+  - p4
+  - z2
+  - z7
+  - s4
+  - s8
+  - p1
+  - z6
+  - z1
+  - m9
+  - m6
+  - s7
+  - s2
+  - red_p5
+  - m5
+  - m1
+  - s1
+  - red_s5
+  - red_m5
+  - s3
+  - m7
+  - s5
+  - p2
+  - s6
+  - p9
+  - z4
+  - m2
+  - m4
+  - p6
+  - p7
+  - z5
+  - p5
+  m_RenderDataMap: {}
+  m_Tag: player
+  m_IsVariant: 0
